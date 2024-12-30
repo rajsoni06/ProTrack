@@ -1,4 +1,4 @@
-# **Task Management Application**
+# **Real-Time Feedback Dashboard**
 
 This is a Task Management Application built with a MERN stack. The front end is developed using React with Vite, and the back-end is built using Express.js with MongoDB for the database.
 
@@ -6,7 +6,7 @@ This is a Task Management Application built with a MERN stack. The front end is 
 
 ## 📜 Project Overview
 
-_A task management app, where users can organize their personal and team-based tasks, track progress, and share task updates. Users can manage their task boards with features to create, edit, assign, and delete tasks for themselves and other members._
+_A Real-Time Feedback Dashboard app, where users can organize their personal and team-based tasks, track progress, and share task updates. Users can manage their task boards with features to create, edit, assign, and delete tasks for themselves and other members._
 
 <p align="center">Register Page</p>
 <a style="" href="https://task-management-org.vercel.app/login">
@@ -193,11 +193,8 @@ Check out the live demo of Task Management here: [Task Management](https://task-
 ## **Author**
 
 Raj Anand Soni \
-Email: sonirajanand677@gmail.com 
+Email: sonirajanand677@gmail.com \
 LinkedIn: https://www.linkedin.com/in/raj-anand-soni-037541212 
-
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
