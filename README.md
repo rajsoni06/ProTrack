@@ -4,14 +4,6 @@ This is a Task Management Application built with a MERN stack. The front end is 
 
 ---
 
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/akashdeep023">
-  <img src="https://profile-counter.glitch.me/task-management/count.svg" />
-  </a>
-</p>
-
 ## 📜 Project Overview
 
 _A task management app, where users can organize their personal and team-based tasks, track progress, and share task updates. Users can manage their task boards with features to create, edit, assign, and delete tasks for themselves and other members._
@@ -25,7 +17,7 @@ _A task management app, where users can organize their personal and team-based t
 <p align="center">Dashboard Page</p>
 <a style="" href="https://task-management-org.vercel.app/">
      
-![Macbook-Air-localhost](https://github.com/user-attachments/assets/5643d5a6-b8ad-4516-a3dd-d12b0d9793e3)
+![image](https://github.com/user-attachments/assets/133e74d8-cfb7-449e-a8fe-743d76e107f6)
 
 </a>
 <p align="center">Public View</p>
