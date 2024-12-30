@@ -1,20 +1,12 @@
-# **Task Management Application**
+# **Real-Time Feedback Dashboard**
 
 This is a Task Management Application built with a MERN stack. The front end is developed using React with Vite, and the back-end is built using Express.js with MongoDB for the database.
 
 ---
 
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/akashdeep023">
-  <img src="https://profile-counter.glitch.me/task-management/count.svg" />
-  </a>
-</p>
-
 ## 📜 Project Overview
 
-_A task management app, where users can organize their personal and team-based tasks, track progress, and share task updates. Users can manage their task boards with features to create, edit, assign, and delete tasks for themselves and other members._
+_A Real-Time Feedback Dashboard app, where users can organize their personal and team-based tasks, track progress, and share task updates. Users can manage their task boards with features to create, edit, assign, and delete tasks for themselves and other members._
 
 <p align="center">Register Page</p>
 <a style="" href="https://task-management-org.vercel.app/login">
@@ -25,7 +17,7 @@ _A task management app, where users can organize their personal and team-based t
 <p align="center">Dashboard Page</p>
 <a style="" href="https://task-management-org.vercel.app/">
      
-![Macbook-Air-localhost](https://github.com/user-attachments/assets/5643d5a6-b8ad-4516-a3dd-d12b0d9793e3)
+![image](https://github.com/user-attachments/assets/133e74d8-cfb7-449e-a8fe-743d76e107f6)
 
 </a>
 <p align="center">Public View</p>
@@ -200,22 +192,9 @@ Check out the live demo of Task Management here: [Task Management](https://task-
 
 ## **Author**
 
-Akash Deep \
-Email: contact.akashdeep023@gmail.com \
-LinkedIn: https://www.linkedin.com/in/akashdeep023/
-
-## **Contributors**
-
-We'd like to acknowledge the efforts and contributions of the following individuals:
-
--   **[Akash Deep](https://github.com/akashdeep023)** - Full Stack development and Project lead.
--   **[Ekant Verma](https://github.com/ekantverma)** - Full Stack development.
--   **[Anjali Kumari](https://github.com/Anjali17aj)** - Full Stack development.
--   **[Shanedra Singh](https://github.com/shanedraSingh/)** - Full Stack development.
-
-## **License**
-
-This project is licensed under the [MIT License](LICENSE).
+Raj Anand Soni \
+Email: sonirajanand677@gmail.com \
+LinkedIn: https://www.linkedin.com/in/raj-anand-soni-037541212 
 
 ---
 
