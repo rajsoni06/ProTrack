@@ -11,19 +11,20 @@ _A Real-Time Feedback Dashboard app, where users can organize their personal and
 <p align="center">Register Page</p>
 <a style="" href="https://task-management-org.vercel.app/login">
      
+     
 ![Macbook-Air-localhost (1)](https://github.com/user-attachments/assets/d05bd3e9-e349-469b-a4d2-d828e3e76414)
 
 </a>
 <p align="center">Dashboard Page</p>
 <a style="" href="https://task-management-org.vercel.app/">
      
-![image](https://github.com/user-attachments/assets/133e74d8-cfb7-449e-a8fe-743d76e107f6)
+![Macbook-Air-localhost (2)](https://github.com/user-attachments/assets/133e74d8-cfb7-449e-a8fe-743d76e107f6)
 
 </a>
 <p align="center">Public View</p>
 <a style="" href="https://task-management-org.vercel.app/task/67421bb3a90e252d2d4cb42e">
      
-![Macbook-Air-localhost (2)](https://github.com/user-attachments/assets/cde4fcb3-80c4-410d-9763-50281c9b2233)
+![Macbook-Air-localhost (3)](https://github.com/user-attachments/assets/889d9620-af36-482b-9b21-47278593375d)
 
 </a>
 
